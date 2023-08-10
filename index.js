@@ -88,3 +88,8 @@ function printCV(){
     window.print();
 }
 
+console.log("hi");
+console.log("hi");
+console.log("hi");
+console.log("hi");
+console.log("hi");
